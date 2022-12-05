@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64989822783",
+    "firebase_url": "https://hydroagro-d3a60-default-rtdb.firebaseio.com",
+    "project_id": "hydroagro-d3a60",
+    "storage_bucket": "hydroagro-d3a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64989822783:android:1de2d9bdc3015e610f5d8a",
+        "android_client_info": {
+          "package_name": "com.example.sistema_hidroponia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64989822783-8rntirt5khkqq8tc8d5seh2t024gsk5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrN9dGV33PSeAXg9Ieoaiteh3fdcx3jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64989822783-8rntirt5khkqq8tc8d5seh2t024gsk5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
